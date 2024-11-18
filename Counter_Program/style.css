@@ -1,0 +1,27 @@
+#CountLabel
+{
+    display: block;
+    display: flex;
+    justify-content: center;
+    font-family: Helvetica;
+    font-size : 10em;
+}
+
+#myButton
+{
+    display: flex;
+    justify-content:  center;
+}
+.buttons
+{
+    padding: 10px 30px 10px ;
+    font-size: 2em;
+    cursor:  pointer;
+    color:white;
+    background-color: rgb(103, 103, 253);
+    transition: ;
+}
+.buttons:hover
+{
+    background-color: blue;
+}
